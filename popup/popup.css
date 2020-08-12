@@ -1,0 +1,172 @@
+html {
+    min-height: 590px;
+}
+
+body {
+    width: 650px;
+    height: 500px;
+}
+
+.tab-image {
+    height: 30px;
+    width: 30px;
+    padding-right: 0px !important;
+}
+.x-image {
+    height: 25px;
+    width: 25px;
+    cursor: pointer !important;
+}
+.icons{
+    height: 20px;
+    width: 20px;
+    padding-left: 28px;
+
+}
+
+.mdl-data-table th {
+    box-sizing: unset !important;
+    text-align: left !important;
+}
+
+.tab-image-wrap {
+    padding-top: 1px !important;
+}
+
+.window-x{
+    padding-bottom: 9px !important;
+    padding-left: 390px !important;
+}
+
+.tab-text {
+    display: block;
+    overflow: hidden;
+    width: 450px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: default;
+    vertical-align: left; 
+    font-size: medium;
+    border-bottom: none !important;
+    text-align: left !important;
+    margin-right: 1px !important;
+    padding-top: 20px !important;
+}
+
+.tab-text-head {
+    width: 100px;
+    font-weight: bold !important;
+    font-family: "helvetica";
+    font-size: large!important;
+    color: rgba(0, 0, 0, 0.75) !important;
+    text-align: left !important;
+    padding-right: 0px !important;
+}
+
+.window-header-row {
+    background-color: #ebfdff;
+    border-bottom: 2.5px solid #1cc8e8;
+}
+
+.mdl-data-table td:first-of-type, .mdl-data-table th:first-of-type {
+    padding-left: 15px;
+}
+
+.mdl-data-table td {
+    text-align: left !important;
+}
+
+.tab-row {
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.tab-text {
+    cursor: pointer;
+}
+
+.tablink {
+    width: 50% !important;
+    cursor: pointer;
+}
+
+#AddNewGroup {
+    padding: 0;
+}
+
+#header-text{
+    font-family: "helvetica";
+    font-size: x-large;
+    font-style: bold;
+}
+
+.mdl-layout__header-row{
+    text-align: center;
+}
+
+.mdl-data-table {
+    width: 100%;
+    border-right: 0;
+    border-left: 0;
+    padding: 0px; 
+    margin-bottom: -1px; 
+}
+
+.scrollabletable {
+    height: 500px;
+}
+
+.text-align-left {
+    text-align: left !important;
+}
+
+.hidden {
+    display: none;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.padding-right-10 {
+    padding-right: 10px;
+}
+
+.padding-10 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.padding-7 {
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+}
+
+.hover-pink:hover {
+    background-color: #e4f8fc;
+}
+
+.tab-row:hover{
+    background-color: #e4f8fc !important; 
+}
+
+#tab-list .tab-row:first-child .tab-text {
+    border-top: none !important;
+}
+
+#tab-list {
+    border-top: none !important;
+}
+
+
+.page-content .mdl-menu__container {
+    right: 20px !important;
+}
+
+.window-tabs-list-wrapper {
+    display: none;
+}
+
+.window-additional-images {
+    padding-left: 25px;
+}

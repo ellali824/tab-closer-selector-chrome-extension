@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": ["background/background-context-menu.js" ]
+   }, 
+   "browser_action": {
+      "default_icon": {},
+      "default_popup": "popup/popup.html",
+      "default_title": "Tab Closer and Selector"
+   },
+   "description": "Easily manage & navigate through your tabs — close your tabs or bring youself to a selected tab!",
+   "icons": {
+      "128": "images/logo128.png",
+      "16": "images/logo16.png",
+      "48": "images/logo48.png"
+   },
+   "manifest_version": 2,
+   "name": "Tab Closer and Selector",
+   "permissions": ["tabs"],
+   "version": "1.3"  
+}
